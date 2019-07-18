@@ -1,0 +1,14 @@
+.eventViewer {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #c9e3e8;
+    overflow: scroll;
+    height: calc( 100vh - 52px);
+    width: 15%;
+}
+
+
+.event {
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid #ccc;
+}
